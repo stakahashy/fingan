@@ -5,7 +5,7 @@ To train the model, you need the data of the financial time-series. Due to the c
 Please contact takahashi(at)cl.rcast.u-tokyo.ac.jp for the information.
 
 # bibliography
-Shuntaro Takahashi, Yu Chen and Kumiko Tanaka-Ishii. Modeling financial time-series with generative adversarial networks. Physica A. 527, 121261, 2019 fl 
+Shuntaro Takahashi, Yu Chen and Kumiko Tanaka-Ishii. Modeling financial time-series with generative adversarial networks. Physica A. 527, 121261, 2019
 
 # requirement
 - Python 3.6 
